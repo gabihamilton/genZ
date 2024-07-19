@@ -5,3 +5,4 @@
 *.png
 plots/
 output*
+.DS_Store
