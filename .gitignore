@@ -1,3 +1,5 @@
+condor/
+docker_stderror
 2022/
 2023/
 *.pdf
