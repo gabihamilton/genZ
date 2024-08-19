@@ -6,6 +6,8 @@ docker_stderror
 *.img
 *.root
 *.png
+*.key
+*.pkl
 plots/
 output*
 .DS_Store
